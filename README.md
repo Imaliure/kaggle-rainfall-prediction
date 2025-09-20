@@ -47,13 +47,13 @@ Feature engineering highlights:
 - **Stacked Meta Model AUC:** ~0.88 🎯
 
 ROC Curve:  
-![alt text](image.png)
+![alt text](roc-curve.png)
 
 ---
 
 ## 🏆 Kaggle Leaderboard
 My submission result:  
-![alt text](image-1.png)
+![alt text](kaggle_leaderboard.png)
 
 ---
 
